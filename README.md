@@ -1,4 +1,4 @@
-# iCompanion
+# iCompanion (My Thesis)
 
 iCompanion <a href="https://github.com/AntonisSykoutris/iCompanion/blob/main/iCompanion_final.pdf" class="image fit">publication</a>.
 
